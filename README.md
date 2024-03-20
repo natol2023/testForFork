@@ -3,4 +3,4 @@
 - Julia Miller
 - Alyona Andrieichenko
 - Nataliia Oleksenko
-
+- Pashora Olga
